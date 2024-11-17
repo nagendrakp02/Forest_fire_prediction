@@ -113,3 +113,6 @@ HyperParameter Tuning performed using **RidgeCV** for the model which performed 
 - framework is created using Flask.
 
 
+## Demo Screenshorts
+
+https://drive.google.com/file/d/1I2u_IU0xN1A1QyQiDgwcdTpuNFr4aAV8/view
