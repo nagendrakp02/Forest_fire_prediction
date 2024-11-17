@@ -1,0 +1,1 @@
+Algerian forest fires prediction project
