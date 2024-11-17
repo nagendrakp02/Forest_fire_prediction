@@ -2,7 +2,7 @@
 # Forest Fire Prediction
 
 
-![frontend]('models/demo.png')
+![frontend]('https://drive.google.com/file/d/1I2u_IU0xN1A1QyQiDgwcdTpuNFr4aAV8/view')
 
 
 
