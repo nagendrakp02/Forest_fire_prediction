@@ -2,7 +2,7 @@
 # Forest Fire Prediction
 
 
-![frontend]('demo.png')
+![frontend]('models/demo.png')
 
 
 
@@ -33,7 +33,7 @@ A framework is created using **Flask** and deployed on **Elastic Beanstalk**
 **Algerian Forest Fires**
 
 
-**Data set Available at:** [link text]('algalgeria_cleaned.csv')
+**Data set Available at:** [link text]('models/algalgeria_cleaned.csv')
 
 ***Data Set Information:***
 
