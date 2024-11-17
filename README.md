@@ -2,15 +2,7 @@
 # Forest Fire Prediction
 
 
-![frontend]('https://drive.google.com/file/d/1I2u_IU0xN1A1QyQiDgwcdTpuNFr4aAV8/view')
-
-
-
-
-
 ## A brief description of what this project is all about.
-
-
 
 Forest Fire Prediction is a Supervised Machine learning problem statements.
 Using Regression  is build that detected future fires based on certain Weather report.
