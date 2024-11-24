@@ -1,4 +1,10 @@
+<!-- PROJECT TITLE -->
+<h1 align="center">Forest Fire Prediction</h1>
 
+<!-- HEADER -->
+<p align="center">
+  <img src="demo.jpg"/>
+</p
 # Forest Fire Prediction
 
 
